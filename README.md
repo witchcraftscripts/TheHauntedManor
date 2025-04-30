@@ -40,8 +40,7 @@ But beware: entering the Grand Hall before you’re ready may cost you everythin
 - Python 3.x
 - Run from any Python IDE or terminal using:
 
-```bash
-python TextBasedGame.py
+python TextBasedGame - HauntedManor.py
 
 🧙 About the Creator
 Created by Michelle Zierk
