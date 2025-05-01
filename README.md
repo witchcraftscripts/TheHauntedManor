@@ -1,12 +1,23 @@
 # Haunted Manor: Party for the Marionette
 
-A **text-based adventure game** written in Python, originally created as a class project for SNHU’s *Introduction to Scripting* course.
+![License](https://img.shields.io/badge/license-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Text-Based Game](https://img.shields.io/badge/Game-Type%3A%20Text--Based-lightgrey)
+![Version](https://img.shields.io/badge/Version-1.0-informational)
 
-## 🎮 Game Concept
+A spooky and emotionally haunting text-based adventure game created in Python. You are a paranormal investigator exploring the cursed Blackwood Manor, home to the forgotten spirit of The Marionette. Your mission? Find six specific items and throw her the perfect birthday party—or risk being trapped forever.
 
-Blackwood Manor is cursed. Haunted by a forgotten entity known only as **The Marionette**, you—a paranormal investigator—must explore the mansion, collect sacred items, and throw her a party to free the trapped souls inside.
+## 🧵 Story Summary
 
-But beware: entering the Grand Hall before you’re ready may cost you everything...
+Blackwood Manor is haunted by The Marionette, a life-sized doll who craves love, not violence. To lift the curse, you must explore rooms, gather sentimental items, and avoid entering the Grand Hall until you're fully prepared. Enter too soon, and your soul is forfeit.
+
+Items to collect:
+- 🎂 Cake
+- 🔪 Knife
+- 🧸 Teddy Bear
+- 🎈 Balloon
+- 📖 Spellbook
+- 🔔 Bell
 
 ## 🧭 Game Features
 
